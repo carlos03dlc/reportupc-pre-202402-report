@@ -142,6 +142,21 @@ Durante la preparación del informe, se llevaron a cabo las siguientes actividad
 
 - [5.4. Video about the product](#54-video-about-the-product)
 
+# Capítulo I: Introducción
+## 1.1. Startup Profile
+### 1.1.1. Descripción de la Startup
+
+### 1.1.2 Perfiles de integrantes del equipo 
+## 1.2 Solution Profile 
+### 1.2.1 Antecedentes y Problemática
+### 1.2.2 Lean UX Process
+#### 1.2.2.1 Lean UX Problem Statement
+#### 1.2.2.2 Lean UX Assumptions
+#### 1.2.2.3. Lean UX Hypothesis Statements
+#### 1.2.2.4. Lean UX Canvas
+## 1.3 Segmentos Objetivo
+
+
 ## [Conclusiones](#conclusiones)
 - [Conclusiones y Recomendaciones](#conclusiones-y-recomendaciones)
 - [Video about the team](#video-about-the-team)
