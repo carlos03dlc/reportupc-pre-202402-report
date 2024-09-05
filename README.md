@@ -316,6 +316,7 @@ Sabremos que hemos tenido éxito, cuando aumente la cantidad de guías que quier
 
 #### 1.2.2.4. Lean UX Canvas
 <img src="">
+
 ## 1.3 Segmentos Objetivo
 Segmento Objetivo #1: **Viajeros (18+ años)**
 Nuestro primer segmento objetivo abarca a las personas que, independientemente de la edad que tengan, necesitan un guía especializado en zonas turísticas, ya sea en la costa, sierra o selva peruana.
