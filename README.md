@@ -2,19 +2,19 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
 
-**Curso:** 
+**Curso: Aplicaciones Web** 
 
-**Sección:** 
+**Sección: SI92** 
 
-**Profesor:** 
+**Profesor: Naldo Reupo-Musayon Gastulo** 
 
-**Carrera:** Ingeniería de Software
+**Carrera: Ingeniería de Software**
 
-**Ciclo:** 2024-02
+**Ciclo: 2024-02**
 
-**Startup:** 
+**Startup: TraveliaConnect** 
 
-**Producto:** 
+**Producto: Guia Turix** 
 
 ### Integrantes:
 
